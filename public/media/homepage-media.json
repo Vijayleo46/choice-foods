@@ -1,0 +1,67 @@
+{
+  "heroVideo": "https://choicefoodsgroup.com/wp-content/uploads/2026/05/Sequence-05-web.mp4",
+  "heroPoster": "https://choicefoodsgroup.com/wp-content/uploads/2026/07/choice-foods-group-06201-copy.jpg",
+  "familyOwned": "https://choicefoodsgroup.com/wp-content/uploads/2026/07/choice-foods-group-06201-copy.jpg",
+  "capabilities": [
+    {
+      "id": "value-added",
+      "num": "01",
+      "title": "VALUE ADDED",
+      "video": "https://choicefoodsgroup.com/wp-content/uploads/2026/02/15s-cut-1-web.mp4",
+      "poster": "https://choicefoodsgroup.com/wp-content/uploads/2026/07/choice-foods-group-06201-copy.jpg",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/07/choice-foods-group-06201-copy.jpg"
+    },
+    {
+      "id": "recipe-dev",
+      "num": "02",
+      "title": "RECIPE DEVELOPMENT",
+      "video": "https://choicefoodsgroup.com/wp-content/uploads/2026/05/5065327-hd_1280_720_24fps.mp4",
+      "poster": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/ef01e4d2f9d2b79f9033916feac1408a2edc695e-819x1024.avif",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/ef01e4d2f9d2b79f9033916feac1408a2edc695e.avif"
+    },
+    {
+      "id": "private-label",
+      "num": "03",
+      "title": "PRIVATE LABEL",
+      "video": "https://choicefoodsgroup.com/wp-content/uploads/2026/05/5488002-hd_1280_720_50fps.mp4",
+      "poster": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/b6580a0acc31478da5d4369e29e26070f510fdf3-683x1024.avif",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/b6580a0acc31478da5d4369e29e26070f510fdf3.avif"
+    }
+  ],
+  "globalPresence": [
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods1-768x1177.avif",
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods2-768x1151.avif",
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods3-768x1092.avif",
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods4-768x1144.avif",
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods5-768x1154.avif",
+    "https://choicefoodsgroup.com/wp-content/uploads/2026/06/choice-foods6-768x1156.avif"
+  ],
+  "impact": [
+    {
+      "title": "BUILDING SAFE, SUPPORTIVE WORKPLACES",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/05/da5ba5f23c8f7fde5c095e0926b2d65873bfcf25-1250x748.avif"
+    },
+    {
+      "title": "INVESTING IN EDUCATIONAL OPPORTUNITIES IN INDIA",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/b7482f30a7822868d2ce3f35f305c89691a2608c.avif"
+    },
+    {
+      "title": "LONG-TERM ACCOUNTABILITY",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/04/f47032434dbebcc0275d2624cb3c646d8f62bea8-1024x529.avif"
+    }
+  ],
+  "press": [
+    {
+      "title": "Career Pathways \u2013 Jose Thomas of Choice Foods",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/08/JoseThomas2.avif"
+    },
+    {
+      "title": "Masterclass with Fearless Educator",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-2.37.34-PM-1024x554.avif"
+    },
+    {
+      "title": "From 43 Students to 3,800 Dreams",
+      "image": "https://choicefoodsgroup.com/wp-content/uploads/2026/08/Aquademia_Website-2048x1704-1-1024x852.avif"
+    }
+  ]
+}
